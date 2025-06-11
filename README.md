@@ -35,12 +35,6 @@ This repository contains a structured collection of my personal learning, experi
 
 ---
 
-## 🌐 Live Project Demos
-
-> *(If any project is deployed — add Railway, Render, or Vercel links here)*
-
----
-
 ## 📦 How to Use
 
 ```bash
